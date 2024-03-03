@@ -1,2 +1,3 @@
 # Landing-Page-Arquitetura
-Projeto da Escola DNC de uma Landing Page para um Arquiteto.
+link do site: https://landingpageaarquitetura.netlify.app/
+link da planilha de registro de informações: 
